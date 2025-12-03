@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-pdfnoodle",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "pdf noodle (previously pdforge) automates PDF Generation in minutes using AI.Create custom PDF templates in seconds using our AI Agents, fine tune the design with our PDF builder and automate the PDF delivery with our native pdforge node inside n8n. No code or design experience needed.",
   "keywords": [
     "n8n-community-node-package",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pdforge/n8n-nodes-pdforge.git"
+    "url": "https://github.com/pdfnoodle/n8n-nodes-pdfnoodle.git"
   },
   "engines": {
     "node": ">=20.15"

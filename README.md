@@ -57,6 +57,7 @@ Please check out the [pdf noodle API Reference](https://docs.pdforge.com/) for m
 
 | Version | Changes                                                                                                           |
 | ------- | ----------------------------------------------------------------------------------------------------------------- |
+| 2.3.1   | Changing the repository from pdforge to pdfnoodle                                                                 |
 | 2.3.0   | Rebranding changing the name from pdforge to pdf noodle (everything else stays the same)                          |
 | 2.2.1   | Added debug option so you have additional information such as rendered HTML and variables validation              |
 | 2.1.1   | Changed description and treated Print Params not being properly converted into objects                            |
